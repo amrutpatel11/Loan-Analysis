@@ -23,7 +23,10 @@ The goal is to understand which factors (income, age, credit score, loan amount,
 - Gender-wise and region-wise analysis
 
 <h3> 🎯 Objective</h3>
-To help banks and financial institutions:
-- Reduce risk by identifying high-default customers
-- Improve loan approval strategy
-- Make data-driven decisions
+To help banks and financial institutions:<br>
+- Reduce risk by identifying high-default customers<br>
+- Improve loan approval strategy<br>
+- Make data-driven decisions<br>
+<br>
+
+<h1><span color="red">Deleted 40k Rows to reduce the size of file(max pload size on github is 25mb</span></h1>
